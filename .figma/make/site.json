@@ -1,0 +1,10 @@
+{
+  "description": "Showcases curated hair accessories with immersive visuals and easy navigation, helping users discover and order stylish clips, ties, and headbands daily.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
