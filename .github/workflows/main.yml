@@ -27,7 +27,8 @@ jobs:
       - uses: actions/configure-pages@v5
 
       - run: npm install
-      - run: npm run build -- --configLoader=bundle --base=/FinalVerCopy/
+
+      - run: npm run build -- --base=/FinalVerCopy/
 
       - uses: actions/upload-pages-artifact@v3
         with:
